@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/114321712-00f79500-9ad1-11eb-8f8c-93755e9174e8.png">
+ <img src="https://user-images.githubusercontent.com/45159366/114322508-7d8c7280-9ad5-11eb-807e-4dc63c9bc0e1.png">
   <br />
  Amazon Web Services (AWS) Guide
 </h1>
