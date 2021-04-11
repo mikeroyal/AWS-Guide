@@ -9,7 +9,7 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
  
-# Tables of Contents
+# Table of Contents
 
 1. [AWS Learning Resources](https://github.com/mikeroyal/AWS-Guide/blob/main/README.md#AWS-learning-resources)
 
