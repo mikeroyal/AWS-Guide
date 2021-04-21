@@ -31,7 +31,7 @@
 
 10. [Node.js Development](https://github.com/mikeroyal/AWS-Guide/blob/main/README.md#nodejs-development)
 
-11. [C/C++ Development](https://github.com/mikeroyal/AWS-Guide/blob/main/README.md#c-c-development)
+11. [C/C++ Development](https://github.com/mikeroyal/AWS-Guide/blob/main/README.md#cc-development)
 
 12. [Java Development](https://github.com/mikeroyal/AWS-Guide/blob/main/README.md#java-development)
 
