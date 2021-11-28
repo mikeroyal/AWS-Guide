@@ -8,6 +8,10 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/114321716-048b1c00-9ad1-11eb-828d-a5a5f2a3c726.png">
+  <br />
+</p>
  
 # Table of Contents
 
@@ -55,11 +59,6 @@
  
 **Amazon Web Services Architecture. Source: [AWS](https://aws.amazon.com/architecture/)**
 
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/114321716-048b1c00-9ad1-11eb-828d-a5a5f2a3c726.png">
-  <br />
-</p>
 
 # AWS Learning Resources
 
