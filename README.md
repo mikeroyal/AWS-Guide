@@ -70,7 +70,7 @@
 
 [Getting Started with Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/)
 
-[Hands-On Tutorials for Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/hands-on/
+[Hands-On Tutorials for Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/hands-on/)
 
 [Getting started with AWS IoT Core ](https://docs.aws.amazon.com/iot/latest/developerguide/iot-gs.html)
 
