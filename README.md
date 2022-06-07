@@ -55,10 +55,6 @@
 
 20. [Rust Development](https://github.com/mikeroyal/AWS-Guide/blob/main/README.md#rust-development)
 
- <img src="https://user-images.githubusercontent.com/45159366/114321714-02c15880-9ad1-11eb-95ac-441aac6b438d.png">
- 
-**Amazon Web Services Architecture. Source: [AWS](https://aws.amazon.com/architecture/)**
-
 
 # AWS Learning Resources
 
@@ -66,33 +62,84 @@
 
 [Amazon Web Services](https://aws.amazon.com/about-aws/) is a reliable, scalable, and inexpensive on-demand cloud computing platforms, services and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. 
 
-[AWS Training and Certification](https://aws.amazon.com/training/)
+<img src="https://user-images.githubusercontent.com/45159366/114321714-02c15880-9ad1-11eb-95ac-441aac6b438d.png">
+ 
+**Amazon Web Services Architecture. Source: [AWS](https://aws.amazon.com/architecture/)**
 
-[Getting Started with Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/)
+### Developer Resources
+[Back to the Top](https://github.com/mikeroyal/AWS-Guide#table-of-contents)
 
-[Hands-On Tutorials for Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/hands-on/)
+- [AWS Developer Center](https://aws.amazon.com/developer/)
 
-[Getting started with AWS IoT Core ](https://docs.aws.amazon.com/iot/latest/developerguide/iot-gs.html)
+- [AWS Sample Code & Libraries](http://aws.amazon.com/code/Amazon-SimpleDB)
 
-[AWS Academy - Amazon Web Services (AWS)](https://aws.amazon.com/training/awsacademy/)
+- [AWS Developer Tools](http://aws.amazon.com/developertools/Amazon-SimpleDB)
 
-[AWS Educate](https://aws.amazon.com/education/awseducate/)
+- [AWS Articles & Tutorials](http://aws.amazon.com/articles/Amazon-SimpleDB)
 
-[Architecting on AWS Classroom Training](https://aws.amazon.com/training/classroom/architecting-on-aws/)
+- [Amazon VPC Resources](https://aws.amazon.com/vpc/developer-resources/)
 
-[DevOps Engineering on AWS from AWS Training](https://aws.amazon.com/training/course-descriptions/devops-engineering/)
+- [AWS Community Forum](https://forums.aws.amazon.com/forum.jspa?forumID=38)
 
-[AWS Certified DevOps Engineer - Professional from A Cloud Guru](https://acloud.guru/learn/aws-certified-devops-engineer-professional)
+- [AWS General Reference guide (PDF)](https://docs.aws.amazon.com/general/latest/gr/aws-general.pdf)
 
-[AWS Internet of Things Foundation Series Training](https://www.aws.training/Details/Curriculum?id=27289)
+- [Introduction to DevOps on AWS (PDF)](https://d1.awsstatic.com/whitepapers/AWS_DevOps.pdf)
 
-[AWS Certified Security - Specialty Certification](https://aws.amazon.com/certification/certified-security-specialty/)
+- [Getting Started with Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/)
 
-[AWS Certification Training Courses on Udemy](https://www.udemy.com/topic/aws-certification/)
+- [Hands-On Tutorials for Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/hands-on/)
 
-[Amazon Web Services Courses on Coursera](https://www.coursera.org/aws)
+- [AWS Pricing Calculator](https://calculator.aws/)
 
-[Amazon Web Services Courses on edX](https://www.edx.org/school/aws)
+- [AWS Training and Certification](https://aws.amazon.com/training/)
+
+- [Getting started with AWS IoT Core](https://docs.aws.amazon.com/iot/latest/developerguide/iot-gs.html)
+
+### Certifications & Courses
+[Back to the Top](https://github.com/mikeroyal/AWS-Guide#table-of-contents)
+
+- [AWS Training and Certification](https://aws.amazon.com/training/)
+
+- [AWS Academy - Amazon Web Services (AWS)](https://aws.amazon.com/training/awsacademy/)
+
+- [AWS Educate](https://aws.amazon.com/education/awseducate/)
+
+- [Architecting on AWS Classroom Training](https://aws.amazon.com/training/classroom/architecting-on-aws/)
+
+- [DevOps Engineering on AWS from AWS Training](https://aws.amazon.com/training/course-descriptions/devops-engineering/)
+
+- [AWS Certified DevOps Engineer - Professional from A Cloud Guru](https://acloud.guru/learn/aws-certified-devops-engineer-professional)
+
+- [AWS Internet of Things Foundation Series Training](https://www.aws.training/Details/Curriculum?id=27289)
+
+- [AWS Certified Security - Specialty Certification](https://aws.amazon.com/certification/certified-security-specialty/)
+
+- [AWS Certification Training Courses on Udemy](https://www.udemy.com/topic/aws-certification/)
+
+- [Amazon Web Services Courses on Coursera](https://www.coursera.org/aws)
+
+- [Amazon Web Services Courses on edX](https://www.edx.org/school/aws)
+
+### Books
+[Back to the Top](https://github.com/mikeroyal/AWS-Guide#table-of-contents)
+
+- [AWS Certified Machine Learning Study Guide: Specialty (MLS-C01) Exam](https://www.amazon.com/Certified-Machine-Learning-Study-Guide/dp/1119821002/ref=sr_1_6?crid=1JKUFONBXR8MZ&keywords=learning+aws&qid=1654062121&s=books&sprefix=learning+aw%2Cstripbooks%2C153&sr=1-6)
+
+- [Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391/ref=sr_1_7?crid=1JKUFONBXR8MZ&keywords=learning+aws&qid=1654062121&s=books&sprefix=learning+aw%2Cstripbooks%2C153&sr=1-7)
+
+- [Mastering Machine Learning on AWS: Advanced machine learning in Python using SageMaker, Apache Spark, and TensorFlow](https://www.amazon.com/Mastering-Machine-Learning-AWS-TensorFlow/dp/1789349796/ref=sr_1_9?crid=1JKUFONBXR8MZ&keywords=learning+aws&qid=1654062121&s=books&sprefix=learning+aw%2Cstripbooks%2C153&sr=1-9)
+
+- [Learning AWS: Design, build, and deploy responsive applications using AWS cloud components](https://www.amazon.com/Learning-AWS-Aurobindo-Sarkar/dp/1784394637/ref=sr_1_20?crid=1JKUFONBXR8MZ&keywords=learning+aws&qid=1654062240&s=books&sprefix=learning+aw%2Cstripbooks%2C153&sr=1-20)
+
+- [AWS: AMAZON WEB SERVICES: The Complete Guide From Beginners For Amazon Web Services](https://www.amazon.com/AWS-SERVICES-Complete-Beginners-Services/dp/1696347831/ref=sr_1_20?crid=1JKUFONBXR8MZ&keywords=learning+aws&qid=1654062240&s=books&sprefix=learning+aw%2Cstripbooks%2C153&sr=1-20)
+
+- [AWS Cookbook: Recipes for Success on AWS](https://www.amazon.com/AWS-Cookbook-Recipes-Success/dp/1492092606/ref=sr_1_21?crid=1JKUFONBXR8MZ&keywords=learning+aws&qid=1654062240&s=books&sprefix=learning+aw%2Cstripbooks%2C153&sr=1-21)
+
+- [Solutions Architect's Handbook: Kick-start your career as a solutions architect by learning architecture design principles and strategies, 2nd Edition](https://www.amazon.com/Solutions-Architects-Handbook-Kick-start-architecture/dp/1801816611/ref=sr_1_24?crid=1JKUFONBXR8MZ&keywords=learning+aws&qid=1654062240&s=books&sprefix=learning+aw%2Cstripbooks%2C153&sr=1-24)
+
+- [Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS](https://www.amazon.com/Data-Engineering-AWS-Gareth-Eagar/dp/1800560419/ref=sr_1_25?crid=1JKUFONBXR8MZ&keywords=learning+aws&qid=1654062240&s=books&sprefix=learning+aw%2Cstripbooks%2C153&sr=1-25)
+
+- [Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists, 2nd Edition](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/1801817952/ref=sr_1_27?crid=1JKUFONBXR8MZ&keywords=learning+aws&qid=1654062240&s=books&sprefix=learning+aw%2Cstripbooks%2C153&sr=1-27)
 
 # AWS Tools
 
