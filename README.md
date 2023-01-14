@@ -171,6 +171,10 @@
 
 [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) is an easy-to-use service for deploying and scaling web applications and services developed with Java,.NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS.
 
+[AWS SimSpace Weave](https://aws.amazon.com/simspaceweaver/) is a new compute service to run real-time spatial simulations in the cloud and at scale. With SimSpace Weaver, simulation developers are no longer limited by the compute and memory of their hardware.
+
+[AWS Wickr](https://aws.amazon.com/wickr/) is an enterprise communications service with end-to-end encryption, that allows businesses and public sector organizations to communicate more securely, enabling customers to meet auditing and regulatory requirements like e-discovery, legal hold, and [FOIA requests](https://www.foia.gov/). 
+
 [AWS IoT Greengrass](https://aws.amazon.com/greengrass/) is an Internet of Things (IoT) open source edge runtime and cloud service that helps you build, deploy, and manage device software. It is used for IoT applications on millions of devices in homes, factories, vehicles, and businesses.
 
 [AWS CodeArtifact](https://aws.amazon.com/codeartifact/) is a fully managed artifact repository service that makes it easy for organizations of any size to securely store, publish, and share software packages used in their software development process. CodeArtifact can be configured to automatically fetch software packages and dependencies from public artifact repositories so developers have access to the latest versions. 
