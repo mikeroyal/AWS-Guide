@@ -75,6 +75,10 @@
 
 - [AWS Developer Tools](http://aws.amazon.com/developertools/Amazon-SimpleDB)
 
+- [What's New with AWS - Latest updates on AWS products and features.](https://aws.amazon.com/new/)
+ 
+- [Top Announcements of AWS re:Invent 2022](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2022/)
+
 - [AWS Articles & Tutorials](http://aws.amazon.com/articles/Amazon-SimpleDB)
 
 - [Amazon VPC Resources](https://aws.amazon.com/vpc/developer-resources/)
