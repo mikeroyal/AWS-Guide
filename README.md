@@ -1198,6 +1198,9 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [KubeAcademy from VMware](https://kube.academy/)
 
+[Kubernetes Tutorial for Beginners: Basic Concepts](https://spacelift.io/blog/kubernetes-tutorial)
+
+
 
 # Machine Learning
 
