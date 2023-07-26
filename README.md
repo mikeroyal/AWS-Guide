@@ -279,6 +279,18 @@
 
 [AWS IoT Core](https://aws.amazon.com/iot-core/) lets you connect IoT devices to the AWS cloud without the need to provision or manage servers. AWS IoT Core can support billions of devices and trillions of messages, and can process and route those messages to AWS endpoints and to other devices reliably and securely.
 
+[Amazon CodeCatalyst](https://codecatalyst.aws/explore) is a service for workflows based on pull request events in linked GitHub repositories. When a workflow is triggered by a GitHub-based pull request, users will also be able to see the name of the PR that triggered it in the CodeCatalyst workflows UI, and click a link that takes them directly to the pull request in GitHub. 
+
+[Amazon Lex](https://docs.aws.amazon.com/lexv2/latest/dg/analytics.html) is a service for building conversational interfaces into any application, using voice and text. With Amazon Lex, you can quickly and easily build sophisticated natural language conversational bots (“chatbots”), virtual agents, and interactive voice response (IVR) systems. We are excited to announce the general availability of Analytics on Amazon Lex. 
+
+[Amazon Omics](https://docs.aws.amazon.com/omics/latest/dev/starting-and-managing-runs.html) is a fully managed service that helps healthcare and life science organizations build at-scale to store, query, and analyze genomic, transcriptomic, and other omics data. With workflow run queuing, you are now able to queue up to thousands of workflow runs, and the service will process the runs at a rate defined by your service quota limits.
+
+[AWS Entity Resolution](https://aws.amazon.com/entity-resolution/) is a configurable, machine learning (ML) powered service that helps organizations match and link related records stored across multiple applications, channels, and data stores. 
+
+[AWS HealthScribe](https://aws.amazon.com/healthscribe/) is a new HIPAA-eligible service designed to help healthcare software vendors build clinical applications that automatically generate preliminary clinical notes by analyzing patient-clinician conversations. It can integrate conversational and generative AI in your application to accelerate clinical documentation workflow and enhance the consultation experience: no machine learning expertise required.
+
+[Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/) is a simple, scalable, and high-performing [vector engine for Amazon OpenSearch Serverless](https://aws.amazon.com/opensearch-service/serverless-vector-engine/). Developers can use this vector engine to build machine learning (ML) augmented search experiences and generative artificial intelligence (AI) applications without having to manage the vector database infrastructure.
+
 
 # AWS DevOps Tools Integration
 
