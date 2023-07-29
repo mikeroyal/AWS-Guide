@@ -293,6 +293,10 @@
 
 [Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/) is a simple, scalable, and high-performing [vector engine for Amazon OpenSearch Serverless](https://aws.amazon.com/opensearch-service/serverless-vector-engine/). Developers can use this vector engine to build machine learning (ML) augmented search experiences and generative artificial intelligence (AI) applications without having to manage the vector database infrastructure.
 
+[Amazon GameLift](https://aws.amazon.com/gamelift/getting-started/) is a fully managed service that allows developers to quickly manage and scale dedicated game servers for multiplayer games. With this release, Amazon GameLift Server SDK now supports Unity 2022.3, Unreal 4.26, Unreal 5.1, Go language, and custom C++ and C# engines. 
+
+[Amazon SQS (Simple Queue Service)](https://aws.amazon.com/sqs/) is a secure, durable, and available hosted queue that lets you integrate and decouple distributed software systems and components. Amazon SQS offers common constructs such as [dead-letter queues](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html) and [cost allocation tags](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-queue-tags.html). It provides a generic web services API that you can access using any programming language that the AWS SDK supports.
+
 
 # AWS DevOps Tools Integration
 
