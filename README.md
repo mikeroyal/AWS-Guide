@@ -83,17 +83,13 @@
 
 - [What's New with AWS - Latest updates on AWS products and features.](https://aws.amazon.com/new/)
 
-- [AWS Cost Management introduces visual Savings Plans recommendations](https://aws.amazon.com/savingsplans/)
-
-- [Amazon OpenSearch Service Developer Guide](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/serverless.html)
-
 - [AWS Articles & Tutorials](http://aws.amazon.com/articles/Amazon-SimpleDB)
 
 - [Amazon VPC Resources](https://aws.amazon.com/vpc/developer-resources/)
 
 - [AWS Community Forum](https://forums.aws.amazon.com/forum.jspa?forumID=38)
 
-- [AWS General Reference guide (PDF)](https://docs.aws.amazon.com/general/latest/gr/aws-general.pdf)
+- [AWS General Reference Guide (PDF)](https://docs.aws.amazon.com/general/latest/gr/aws-general.pdf)
 
 - [Introduction to DevOps on AWS (PDF)](https://d1.awsstatic.com/whitepapers/AWS_DevOps.pdf)
 
@@ -105,7 +101,17 @@
 
 - [AWS Training and Certification](https://aws.amazon.com/training/)
 
+- [AWS Cost Management introduces visual Savings Plans recommendations](https://aws.amazon.com/savingsplans/)
+
+- [Amazon OpenSearch Service Developer Guide](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/serverless.html)
+
 - [Getting started with AWS IoT Core](https://docs.aws.amazon.com/iot/latest/developerguide/iot-gs.html)
+
+- [Working with 64-bit ARM workloads on Amazon ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-arm64.html)
+
+- [AWS Batch User Guide](https://docs.aws.amazon.com/batch/latest/userguide/what-is-batch.html)
+
+- [Amazon S3 Backups Guide](https://docs.aws.amazon.com/aws-backup/latest/devguide/s3-backups.html)
 
 ### Certifications & Courses
 [Back to the Top](https://github.com/mikeroyal/AWS-Guide#table-of-contents)
