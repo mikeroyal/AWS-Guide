@@ -303,6 +303,7 @@
 
 [Amazon SQS (Simple Queue Service)](https://aws.amazon.com/sqs/) is a secure, durable, and available hosted queue that lets you integrate and decouple distributed software systems and components. Amazon SQS offers common constructs such as [dead-letter queues](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html) and [cost allocation tags](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-queue-tags.html). It provides a generic web services API that you can access using any programming language that the AWS SDK supports.
 
+[AWS Service Catalog Engine for Terraform Cloud (TFC-RE)](https://docs.aws.amazon.com/servicecatalog/latest/adminguide/getstarted-Terraform.html) is an integration between AWS Service Catalog and Terraform Cloud that allows users to provision Service Catalog products using TFC. This integration gives administrators governance and visibility into their Terraform workloads, and allows Service Catalog administrators to delegate cloud resource provisioning responsibilities to users within their organizations.
 
 # AWS DevOps Tools Integration
 
