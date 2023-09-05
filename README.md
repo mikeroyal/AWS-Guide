@@ -159,6 +159,14 @@
 
 - [Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists, 2nd Edition](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/1801817952/ref=sr_1_27?crid=1JKUFONBXR8MZ&keywords=learning+aws&qid=1654062240&s=books&sprefix=learning+aw%2Cstripbooks%2C153&sr=1-27)
 
+### YouTube Tutorials
+[Back to the Top](#table-of-contents)
+
+[![Amazon Web Services Playlist](https://ytcards.demolab.com/?id=e1I5v6uX_As&list=RDCMUCd6MoB9NC6uYN2grvUNT-Zg&start_radio=1&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Amazon Web Services Playlist")](https://www.youtube.com/watch?v=e1I5v6uX_As&list=RDCMUCd6MoB9NC6uYN2grvUNT-Zg&start_radio=1) 
+[![Top 50+ AWS Services Explained in 10 Minutes](https://ytcards.demolab.com/?id=JIbIYCM48to&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Top 50+ AWS Services Explained in 10 Minutes")](https://www.youtube.com/watch?v=JIbIYCM48to) 
+[![Is the AWS Cloud Practitioner Certification ACTUALLY worth it?](https://ytcards.demolab.com/?id=bX95Ga3rbkA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Is the AWS Cloud Practitioner Certification ACTUALLY worth it?")](https://www.youtube.com/watch?v=bX95Ga3rbkA) 
+[![AWS Certified Cloud Practitioner 2023 | Full Training Course](https://ytcards.demolab.com/?id=Uq5w1lnKzlk&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "AWS Certified Cloud Practitioner 2023 | Full Training Course")](https://www.youtube.com/watch?v=Uq5w1lnKzlk)  
+
 # AWS Tools
 
 [Back to the Top](https://github.com/mikeroyal/AWS-Guide/blob/main/README.md#table-of-contents)
