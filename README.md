@@ -22,7 +22,11 @@
 # Table of Contents
 
 1. [AWS Learning Resources](https://github.com/mikeroyal/AWS-Guide/blob/main/README.md#AWS-learning-resources)
-
+    - [Developer Resources](#developer-resources)
+    - [AWS Training & Courses](#certifications--courses)
+    - [AWS Books](#books)
+    - [YouTube Tutorials](#youtube-tutorials)
+      
 2. [AWS Tools](https://github.com/mikeroyal/AWS-Guide/blob/main/README.md#AWS-tools)
 
 3. [AWS Devops Tools Integration](https://github.com/mikeroyal/AWS-Guide/blob/main/README.md#AWS-devops-tools-integration)
