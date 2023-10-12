@@ -229,6 +229,12 @@
 
 [AWS Transit Gateway](https://aws.amazon.com/transit-gateway/) is a tool that connects VPCs and on-premises networks through a central hub. This simplifies your network and puts an end to complex peering relationships. It acts as a cloud router - each new connection is only made once.
 
+[Amazon OpenSearch Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/what-is.html) is a managed service that makes it easy to deploy, operate, and scale OpenSearch clusters in the AWS Cloud. 
+
+[AWS Verified Access](https://aws.amazon.com/verified-access/) is a service that validates every application request before granting access. It removes the need for a VPN, which simplifies the remote connectivity experience for end users and reduces the management complexity for IT administrators.
+
+[Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) is a service that gives you access to the capabilities of the familiar PostgreSQL database engine. This means that the code, applications, and tools you already use today with your existing databases can be used with Amazon RDS. Amazon RDS for PostgreSQL currently supports PostgreSQL 9.6, 10, 11, 12, 13, 14, and 15. With [Trusted Language Extensions (TLE) for PostgreSQL](https://aws.amazon.com/rds/postgresql/features/), you can build high performance extensions and safely run them on Amazon RDS using popular trusted languages without needing AWS to certify code.
+
 [Gateway Load Balancer (GWLB)](https://aws.amazon.com/elasticloadbalancing/gateway-load-balancer/) is a tool that makes it easy to deploy, scale, and manage your third-party virtual appliances. It gives you one gateway for distributing traffic across multiple virtual appliances, while scaling them up, or down, based on demand.
 
 [AWS Chalice](https://aws.amazon.com/blogs/developer/deploying-aws-chalice-application-using-aws-cloud-development-kit/) is a Python Serverless Microframework for AWS and allows you to quickly create and deploy applications that use Amazon API Gateway and AWS Lambda.
