@@ -79,7 +79,13 @@
 ### Developer Resources
 [Back to the Top](https://github.com/mikeroyal/AWS-Guide#table-of-contents)
 
+- [Know Before You Go: An AWS Partner's Guide to re:Invent 2023](https://aws.amazon.com/blogs/apn/know-before-you-go-an-aws-partners-guide-to-reinvent-2023/)
+ 
+- [Cloud Events, Webinars and Conferences - AWS](https://aws.amazon.com/events/)
+
 - [AWS Developer Center](https://aws.amazon.com/developer/)
+
+- [AWS Pricing Calculator](https://calculator.aws/)
 
 - [AWS Sample Code & Libraries](http://aws.amazon.com/code/Amazon-SimpleDB)
 
@@ -100,8 +106,6 @@
 - [Getting Started with Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/)
 
 - [Hands-On Tutorials for Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/hands-on/)
-
-- [AWS Pricing Calculator](https://calculator.aws/)
 
 - [AWS Training and Certification](https://aws.amazon.com/training/)
 
