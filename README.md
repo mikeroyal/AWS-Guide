@@ -281,6 +281,8 @@
 
 [AWS Security Hub](https://aws.amazon.com/security-hub/) is a service that  collects security data from across AWS accounts, services, and supported third-party partner products and helps you analyze your security trends and identify the highest priority security issues.
 
+[Amazon SNS message data protection](https://docs.aws.amazon.com/sns/latest/dg/sns-message-data-protection-custom-data-identifiers.html) is a set of capabilities that leverage pattern matching, machine learning models, and content policies to help security and engineering teams facilitate real-time data protection in their applications that use Amazon SNS to exchange high volumes of data. 
+
 [AWS RedShift](https://aws.amazon.com/redshift/) is a data warehouse tool that makes it as easy to gain new insights from all your data. With Redshift, you can easily query and combine exabytes of structured and semi-structured data across your data warehouse, operational database, and data lake using standard SQL. It lets you easily save the results of your queries back to your S3 data lake using open formats, like Apache Parquet, so that you can do additional analytics from other analytics services like Amazon EMR, Amazon Athena, and Amazon SageMaker.
 
 [AWS Data Pipeline](https://aws.amazon.com/datapipeline/) is a web service that helps you reliably process and move data between different AWS compute and storage services, as well as on-premises data sources, at specified intervals. AWS Data Pipeline, let's you regularly access your data where it’s stored, transform and process it at scale, and efficiently transfer the results to AWS services such as Amazon S3, Amazon RDS, Amazon DynamoDB, and Amazon EMR.
